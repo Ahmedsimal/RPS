@@ -48,7 +48,7 @@ printf("      HERE ARE SOME RULES OF THE GAME<*>\n");
 printf("      THIS GAME IS BEING PLAYED BETWEEN 2 INDIVIDUA       \n THE FIRST ONE IS YOU-:)       \n AND THE SECOND ONE IS COMPUTER-:)");
 printf("      \nYOU GET FIVE CHANCES TO WIN THE GAME\n");
 printf("       IF YOUR SCORE IS HIGH       \nTHEN YOU WIN THE GAME\n");
-printf("       {R~>ROCK}...\t\t\t\t\t\t\t\n{P~>PAPER}...\t\t\t\t\t\t\t\n{S~>SCISSORS}...\n");
+printf("{R~>ROCK}...\t\t\t\t\t\t\t\n{P~>PAPER}...\t\t\t\t\t\t\t\n{S~>SCISSORS}...\n");
 printf("       #:ROCK ELIMINATES SCISSORS BAAAMMMM!!!\t\t\t\t\t\t\t\n#:SCISSORS ELIMINATES PAPER GOTCHAAA!!!       \n#:PAPER ELIMINATES ROCK OUCH OUCH OUCH!!!\n");
 printf("       IF USER DEFEATES THE COMPUTER THEN USER GET ONE SCORE\n");
 printf("       IF COMPUTER DEFEATES USER THEN COMPUTER GETS ONE SCORE\n");
